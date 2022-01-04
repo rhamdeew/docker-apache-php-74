@@ -1,2 +1,1 @@
-# docker-apache-php-74
-Docker-image contains built Apache + PHP 7.4 for docker-compose-php project 
+This Dockerfile is used for [docker-compose-php project](https://github.com/rhamdeew/docker-compose-php).
